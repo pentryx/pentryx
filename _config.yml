@@ -1,11 +1,11 @@
 highlighter: rouge
 theme: minima
 google_analytics: UA-627907-4
-twitter_username: kylev
-github_username: kylev
+twitter_username: pentryx
+github_username: pentryx
 title: kylev
 author: Kyle V
-url: "https://kylev.github.io"
+url: "https://pentryx.github.io"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
