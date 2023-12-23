@@ -3,8 +3,8 @@ theme: minima
 google_analytics: UA-627907-4
 twitter_username: pentryx
 github_username: pentryx
-title: kylev
-author: Kyle V
+title: pentryx
+author: pentryx
 url: "https://pentryx.github.io"
 plugins:
   - jekyll-feed
